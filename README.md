@@ -1,5 +1,4 @@
-#GreenEcoHub
-<h3 align="center">A passionate frontend developer from India</h3>
+# GreenEcoHub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +12,16 @@
 GreenEcoHub is a management platform for renewable energy ressources. Network Operators, Solar Engineers, Household, Energy Consultants and Administrator can interact on here. 
 
 ## Tech Stacks
+I used React and Vite for the Frontend with Material UI. In the Backend I opted for Python, Postgres and FastAPI.
+To run the app, Docker is needed.
+Execute:
+```
+source build_frontend.sh
+source build_backend.sh
+```
 
+
+## Screenshots of the App
 
 ![image](https://github.com/Coluding/GreenEcoHub/assets/98786106/084325d1-2b91-456c-810e-f0e48fce9576)
 ![image](https://github.com/Coluding/GreenEcoHub/assets/98786106/aa54af4b-4fc7-4a88-b792-c10222bd28d6)
